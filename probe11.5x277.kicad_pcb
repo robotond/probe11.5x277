@@ -90,7 +90,7 @@
 	(net 8 "Net-(J1-Pin_6)")
 	(net 9 "Net-(J1-Pin_4)")
 	(net 10 "Net-(J1-Pin_10)")
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "19c969b9-46c5-4f04-980e-2502df4c9545")
 		(at 139.7 100 90)
@@ -118,7 +118,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -357,7 +357,7 @@
 			(uuid "6fc1fce6-704f-4fcb-9ac9-f158efb55ef5")
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "1e8684ad-9b10-4a3d-8d2b-d8f54801cef1")
 		(at 165.25 100 -90)
@@ -385,7 +385,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -624,7 +624,7 @@
 			(uuid "487c7841-ef9d-431c-baa4-df39f8c31059")
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "2f9be1ba-4f44-4f95-8840-87cd3dff947c")
 		(at 147 100 90)
@@ -652,7 +652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -891,7 +891,7 @@
 			(uuid "74bc7068-5355-42b0-ba22-11eebe20d201")
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "3dc0c6ae-f6d6-48f7-bd1a-84b91615a6b4")
 		(at 143.35 100 -90)
@@ -919,7 +919,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1158,7 +1158,7 @@
 			(uuid "e5315b6a-2b02-4f95-b092-1762dcaa3538")
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "4afb99f8-27bb-4a0b-a699-2048e01c03c8")
 		(at 154.3 100 90)
@@ -1186,7 +1186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1425,7 +1425,7 @@
 			(uuid "ad3401a0-d34a-4fe8-b239-202f8cbaaac7")
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "50de4f7e-a6aa-46e2-ad60-84d13f89c335")
 		(at 161.6 100 90)
@@ -1453,7 +1453,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1692,7 +1692,7 @@
 			(uuid "ce010892-8798-49a6-837d-54e04445da9a")
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_2x05_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "5cd5a93e-a4b7-4f11-80f2-d08933146a36")
 		(at 56.42 101.27 90)
@@ -1720,7 +1720,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical"
+		(property "Footprint" "Library:PinHeader_2x05_P2.54mm_Vertical"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2052,7 +2052,7 @@
 			(pintype "passive")
 			(uuid "6250b7b5-a771-44a8-acad-52b6dc197d7f")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/PinHeader_2x05_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2064,7 +2064,7 @@
 			)
 		)
 	)
-	(footprint "TJP_LIB:NTC_5x2"
+	(footprint "Library:NTC_5x2"
 		(layer "F.Cu")
 		(uuid "643fc7d2-ea8d-4766-8a1a-06f7bc04b247")
 		(at 200 100)
@@ -2092,7 +2092,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TJP_LIB:NTC_5x2"
+		(property "Footprint" "Library:NTC_5x2"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2331,7 +2331,7 @@
 			(pintype "passive")
 			(uuid "0f77068b-24eb-4b2d-af08-8ffa6c241c00")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/D_DO-35_SOD27_P7.62mm_Horizontal.wrl"
 			(offset
 				(xyz -3.81 0 -1.2)
 			)
@@ -2343,7 +2343,7 @@
 			)
 		)
 	)
-	(footprint "TJP_LIB:PCB11x297"
+	(footprint "Library:PCB11x297"
 		(layer "F.Cu")
 		(uuid "8a7f0b31-2445-474e-b858-de4cddd31b56")
 		(at 200 100)
@@ -2371,7 +2371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TJP_LIB:PCB11x297"
+		(property "Footprint" "Library:PCB11x297"
 			(at 0 -10.5 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2434,7 +2434,7 @@
 			)
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "8c645f53-5c24-4fac-909e-6c02fffc054f")
 		(at 157.95 100 -90)
@@ -2462,7 +2462,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2701,7 +2701,7 @@
 			(uuid "e5915879-ff14-4a44-83e8-8f499f960ae1")
 		)
 	)
-	(footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+	(footprint "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 		(layer "F.Cu")
 		(uuid "cd3ffca7-d09d-432a-9f04-ef1100c2e2cc")
 		(at 150.65 100 -90)
@@ -2729,7 +2729,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+		(property "Footprint" "Library:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2968,7 +2968,7 @@
 			(uuid "108d1ccb-0ea4-46c7-80ee-98f6fd04fe76")
 		)
 	)
-	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical"
+	(footprint "Library:PinHeader_2x05_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "f9d48872-9176-4429-bfc9-03c35fecee59")
 		(at 333.42 101.27 90)
@@ -2996,7 +2996,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical"
+		(property "Footprint" "Library:PinHeader_2x05_P2.54mm_Vertical"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3328,7 +3328,7 @@
 			(pintype "passive")
 			(uuid "5a02fc9b-1626-4a66-a232-d3cbb1870798")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/PinHeader_2x05_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)

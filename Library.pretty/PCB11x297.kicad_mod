@@ -1,0 +1,89 @@
+(footprint "PCB11x297"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1 -8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "cc205730-92f0-431b-a767-c4a011f37e36")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 -12 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b1138d13-5a29-419f-b352-3e232e7cccc5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "TJP_LIB:PCB11x297"
+		(at 0 -10.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "29d9c329-ddaf-42df-80d2-33594810775d")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "acf49523-56c4-4132-8048-a7ca14eed5f6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3497d283-62ae-4f66-98c1-be9caaec6543")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(fp_rect
+		(start -148.5 -5.75)
+		(end 148.5 5.75)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "Edge.Cuts")
+		(uuid "64547186-8801-4267-a0d3-c10b43df764f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 7.5 -8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c42cbb5e-1d47-471e-a212-c203c2b02219")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+)
